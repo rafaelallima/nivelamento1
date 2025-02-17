@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(248, 231, 173);
+}
+
+h1{
+    text-align: center;
+    border-color: black;
+    border-style: dashed;
+}
+
+h2{
+    font-size: large;
+    border-color: black;
+    border-style: groove;
+   
+}
+
+h3{
+    font-size: large;
+    border-color: black;
+    border-style: groove;
+
+}
+
+h4{
+    font-size: large;
+    border-color: black;
+    border-style: groove;
+}
+
+h5{
+    font-size: large;
+    border-color: black;
+    border-style: groove;
+}
+
+
